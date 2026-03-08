@@ -1,17 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yashas;AI+Developer;Blockchain+Builder;Cybersecurity+Enthusiast;Google+Student+Ambassador" />
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Yashas;AI+Developer;Blockchain+Enthusiast;Cybersecurity+Learner;Building+Scalable+Technology+Solutions" />
 </p>
-
-### 🚀 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,linux,docker,git,github,firebase" />
-</p>
-
 
 # Hi 👋 I'm Yashas
 
@@ -29,11 +18,11 @@
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,linux,docker,git,github,firebase" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,linux,docker,git" />
 </p>
 
 * Python
-* JavaScript / TypeScript
+* React.js / TypeScript
 * AI / Machine Learning
 * Blockchain
 * Linux
