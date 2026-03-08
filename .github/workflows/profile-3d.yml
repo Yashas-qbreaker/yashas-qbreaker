@@ -17,11 +17,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Yashas-qbreaker
 
-      - name: remove stats section
+      # Remove stars and forks from generated SVG
+      - name: remove stars and forks
         run: |
-          sed -i '/stargazers/d' profile-3d-contrib/*.svg
-          sed -i '/forks/d' profile-3d-contrib/*.svg
-          sed -i '/contributions/d' profile-3d-contrib/*.svg
+          sed -i '/⭐/d' profile-3d-contrib/*.svg
+          sed -i '/fork/d' profile-3d-contrib/*.svg
 
       - name: push
         uses: peaceiris/actions-gh-pages@v3
