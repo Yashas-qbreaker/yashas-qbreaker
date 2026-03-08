@@ -43,14 +43,8 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yashas-qbreaker&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Yashas-qbreaker&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashas-qbreaker&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
