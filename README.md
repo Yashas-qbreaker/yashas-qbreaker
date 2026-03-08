@@ -43,9 +43,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashas-qbreaker&show_icons=true&theme=radical&cache_seconds=1800)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-qbreaker&layout=compact&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashas-qbreaker&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-qbreaker&layout=compact&theme=tokyonight)
 
 
 
