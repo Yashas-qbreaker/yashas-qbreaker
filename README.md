@@ -51,5 +51,8 @@
 ## 📈 3D Contribution Graph
 
 ![](https://raw.githubusercontent.com/Yashas-qbreaker/Yashas-qbreaker/gh-pages/profile-night-green.svg)
+<div style="overflow:hidden; max-height:350px;">
+<img src="https://raw.githubusercontent.com/Yashas-qbreaker/Yashas-qbreaker/gh-pages/profile-night-green.svg"/>
+</div>
 
 ⭐ Always exploring new technologies and building impactful solutions
