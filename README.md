@@ -35,9 +35,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashas-qbreaker\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashas-qbreaker&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-qbreaker\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-qbreaker&layout=compact&theme=radical&cache_seconds=1800)
+
 
 
 ⭐ Always exploring new technologies and building impactful solutions
