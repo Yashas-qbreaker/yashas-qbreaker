@@ -48,17 +48,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashas-qbreaker&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Yashas-qbreaker/Yashas-qbreaker/blob/output/github-contribution-grid-snake.svg)
-
 ## 📈 3D Contribution Graph
 
 ![](https://raw.githubusercontent.com/Yashas-qbreaker/Yashas-qbreaker/gh-pages/profile-night-green.svg)
-
-![](https://raw.githubusercontent.com/Yashas-qbreaker/Yashas-qbreaker/gh-pages/profile-green-animate.svg)
-
-![](https://raw.githubusercontent.com/Yashas-qbreaker/Yashas-qbreaker/gh-pages/profile-night-rainbow.svg)
 
 ⭐ Always exploring new technologies and building impactful solutions
