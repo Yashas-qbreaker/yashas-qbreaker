@@ -43,12 +43,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yashas-qbreaker&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashas-qbreaker&layout=compact&theme=tokyonight)
