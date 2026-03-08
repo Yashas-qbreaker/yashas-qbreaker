@@ -52,4 +52,6 @@
 
 ![](https://raw.githubusercontent.com/Yashas-qbreaker/Yashas-qbreaker/gh-pages/profile-night-green.svg)
 
+![](https://raw.githubusercontent.com/Yashas-qbreaker/Yashas-qbreaker/gh-pages/profile-night-view.svg)
+
 ⭐ Always exploring new technologies and building impactful solutions
